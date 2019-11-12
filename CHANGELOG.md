@@ -1,3 +1,5 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+This is first sample flutter plugin
+
+

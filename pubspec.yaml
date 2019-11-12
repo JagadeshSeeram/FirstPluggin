@@ -1,8 +1,8 @@
 name: first_plugin
 description: A new Flutter plugin.
 version: 0.0.1
-author:
-homepage:
+author: Jagadesh Seeram
+homepage: https://github.com/JgdshSeerm/FirstPluggin
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
